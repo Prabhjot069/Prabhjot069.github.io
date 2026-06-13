@@ -14,7 +14,7 @@ export default function About() {
         <h1>About This App</h1>
 
         <InfoBox text="This app demonstrates React components, props, state, and events." />
-        <InfoBox text="Built using Next.js with inline CSS only." />
+        <InfoBox text="Built using Next.js." />
       </div>
     </div>
   );
